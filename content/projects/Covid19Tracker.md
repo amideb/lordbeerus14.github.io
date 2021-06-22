@@ -2,6 +2,7 @@
 date: "2020-04-13"
 title: "Covid-19 Tracker"
 github: "https://github.com/debrupofficial365/coronavirus-tracker-website-spring-boot-thymeleaf"
+external: ""
 tech:
   - Spring Boot
   - Thymeleaf
