@@ -1,8 +1,7 @@
 ---
 date: "2020-04-13"
 title: "Covid-19 Tracker"
-github: "https://github.com/Debrupdeb7/Covid-19-HelpDesk"
-external: "https://www.youtube.com/watch?v=s9ivtzkpK6w&feature=youtu.be"
+github: "https://github.com/debrupofficial365/coronavirus-tracker-website-spring-boot-thymeleaf"
 tech:
   - Spring Boot
   - Thymeleaf
