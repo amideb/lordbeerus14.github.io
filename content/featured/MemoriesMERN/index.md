@@ -1,8 +1,8 @@
 ---
-date: '2'
-title: 'Employee Management System'
-cover: './emp.png'
-github: 'https://github.com/chandrikadeb7/Girlscript-Twitter-Bot'
+date: "2"
+title: "Employee Management System"
+cover: "./emp.png"
+github: "https://github.com/Debrupdeb7/Girlscript-Twitter-Bot"
 # external: 'https://twitter.com/girlscript_bot'
 tech:
   - React.js

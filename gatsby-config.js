@@ -2,7 +2,6 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    
     title: config.siteTitle,
     siteUrl: config.siteUrl,
     description: config.siteDescription,
@@ -18,8 +17,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'ChandrikaDeb',
-        short_name: 'ChandrikaDeb',
+        name: 'DebrupDeb',
+        short_name: 'DebrupDeb',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
