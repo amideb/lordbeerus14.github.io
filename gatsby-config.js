@@ -17,8 +17,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'DebrupDeb',
-        short_name: 'DebrupDeb',
+        name: 'Debrup',
+        short_name: 'Debrup',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

@@ -2,8 +2,8 @@
 date: "2"
 title: "Employee Management System"
 cover: "./emp.png"
-github: "https://github.com/Debrupdeb7/Girlscript-Twitter-Bot"
-# external: 'https://twitter.com/girlscript_bot'
+github: "https://github.com/debrupofficial365/employee-managenet-system-mern-college-project"
+# external: 'https://github.com/debrupofficial365/employee-managenet-system-mern-college-project'
 tech:
   - React.js
   - Node.js

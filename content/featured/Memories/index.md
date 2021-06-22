@@ -3,7 +3,7 @@ date: "1"
 title: "Memories Social Media Web App "
 cover: "demo1.png"
 github: "https://github.com/debrupofficial365/memories-project-mern-server"
-# external: 'https://github.com/Debrupdeb7/Social-Media-Launcher-Chrome-Extension'
+# external: 'https://github.com/debrupofficial365/memories-project-mern-server'
 tech:
   - React.js
   - Node.js
