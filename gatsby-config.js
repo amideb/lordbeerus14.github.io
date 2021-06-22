@@ -147,5 +147,5 @@ module.exports = {
       },
     },
   ],
-  pathPrefix: '/debrupofficial365.github.io',
+  
 };
